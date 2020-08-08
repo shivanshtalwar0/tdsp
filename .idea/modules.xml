@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BluetoothHC05.iml" filepath="$PROJECT_DIR$/BluetoothHC05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theftdetection.iml" filepath="$PROJECT_DIR$/theftdetection.iml" group="theftdetection" />
+      <module fileurl="file://$PROJECT_DIR$/app/theftdetection-app.iml" filepath="$PROJECT_DIR$/app/theftdetection-app.iml" group="theftdetection/app" />
+    </modules>
+  </component>
+</project>
